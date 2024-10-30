@@ -1,0 +1,15 @@
+.css-live-reload-done {
+    background: #6a6;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    z-index: 9999999999;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 2;
+    text-shadow: -1px 1px rgba(0,0,0,0.2);
+    letter-spacing: 1px;
+}
